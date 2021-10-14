@@ -1,4 +1,5 @@
 ---
+Title: ""
 layout: single
 author_profile: true
 title-heading: false

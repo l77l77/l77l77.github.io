@@ -87,11 +87,16 @@ defaults:
       show_date: false
   # _pages
   - scope:
-      path: "_pages"
-      type: pages
+      path: "posts"
+      type: posts
     values:
       layout: single
       author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+      show_date: false
 
 category_archive:
   type: liquid

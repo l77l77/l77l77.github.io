@@ -1,5 +1,5 @@
 ---
-layout: post
+
 author_profile: true
 title-heading: false
 ---

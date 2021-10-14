@@ -73,22 +73,9 @@ footer:
       url: "https://github.com/"
 
 defaults:
-  # _posts
   - scope:
       path: ""
       type: pages
-    values:
-      layout: single
-      author_profile: true
-      read_time: false
-      comments: false
-      share: false
-      related: false
-      show_date: false
-  # _pages
-  - scope:
-      path: "posts"
-      type: posts
     values:
       layout: single
       author_profile: true

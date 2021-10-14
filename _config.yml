@@ -13,11 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Sisi Lai | Personal Website
-email: sisilai766@gmail.com
+title: Sisi Lai
+email: email@email.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my home! :)
-twitter_username: username
 github_username: l77l77
 minimal_mistakes_skin: dark
 search: true
@@ -60,9 +59,12 @@ author:
   bio    : "Welcome to CC's Website! :)"
   links:
     - label: "Website"
+      icon: "fas fa-fw fa-link"
       url: "https://l77l77.github.io"
     - label: "GitHub"
-      url: "https://github.com/"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/l77l77"
+
 
 footer:
   links:
@@ -78,10 +80,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: false
-      share: true
-      related: true
+      share: false
+      related: false
       show_date: false
   # _pages
   - scope:

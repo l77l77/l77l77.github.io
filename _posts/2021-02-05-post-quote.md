@@ -1,5 +1,5 @@
 ---
-title: "Post: Quote"
+title: "Post: Mobile Computing"
 categories:
   - Blog
 tags:

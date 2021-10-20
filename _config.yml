@@ -17,7 +17,6 @@ title: Boomerang.MobileDesign
 email: email@email.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to Birgir, Daniel and Sisi Design!:) 
-  Click Mobile design to see what we have done! ^^
   github_username: l77l77
 minimal_mistakes_skin: dark
 search: true
@@ -57,7 +56,7 @@ plugins:
 
 author:
   name   : "Birgir, Daniel & Sisi"
-  bio    : "Welcome to group5's Website! :)"
+  bio    : "Welcome to group5's Website! :)   Click Mobile design to see what we have done! ^^"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

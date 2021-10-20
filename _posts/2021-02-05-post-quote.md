@@ -1,5 +1,5 @@
 ---
-title: "Mobile Design"
+title: "Post: Mobile Design"
 ---
 # Citations Collection
 

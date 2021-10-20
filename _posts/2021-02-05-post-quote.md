@@ -2,9 +2,7 @@
 title: "Mobile Design"
 categories:
   - Blog
-tags:
-  - Post Formats
-  - quote
+
 ---
 ## Boomerang
 

@@ -1,5 +1,5 @@
 ---
-title:"Mobile Development"
+title: "Mobile Development"
 categories:
   - Blog
 ---

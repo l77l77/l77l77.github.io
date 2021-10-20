@@ -12,10 +12,13 @@ tags:
 
 ![cs](https://user-images.githubusercontent.com/1661078/136353977-dbc44c8c-678a-4a55-9fcb-4e8a6e8f0ae7.png)
 
-**[Browse and Collect Citations NFTs on OpenSea](https://opensea.io/citations)**
+**[Browse and try our prototype](https://www.figma.com/proto/M3kSduZpuR7lveCW87pdzs/Interactive-with-Phone-background?node-id=2%3A87&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A302)**
 
-*Notice: The NFTs are currently under development. If you are interested in updates about this project, you can [follow me on Twitter](https://twitter.com/doctorBaytas) where I will publish details when the project is ready for commercial debut.*
+*Notice:*
 
+
+
+## Background
 Citations is a collection of piece-unique NFTs representing important works in computer science, whose impact has re-shaped our material and cultural world.
 
 Reciprocating to the classical recording system of scholarly publishing, Citations expresses these canonical works on a contemporary recording system: the blockchain.
@@ -24,12 +27,7 @@ Citations honors computer science research at large; at the same time, it is int
 
 Each Citations collectible bears a reference to an important publication in computer science, in full academic citation format; as well as a bespoke illustration based on the visual communication devices (figures, graphs, equations, tables) that appear in the original work. The text and figures are typeset with utmost attention to detail, and properties embedded in the NFT record provide information on the typefaces utilized in the design.
 
-## Ethos *+* Methodology
-
-Business Model Innovation  
-Research through Design  
-Graphic Design  
-
+## Design
 
 ![image](https://user-images.githubusercontent.com/1661078/136367937-8e171d8c-bf32-4282-8473-0d80e19b4407.png)
 
@@ -40,7 +38,13 @@ Graphic Design
 ![image](https://user-images.githubusercontent.com/1661078/136367973-556510d4-7c7e-49e6-af9f-6b404ab0eb8a.png)
 
 
-## Products
+## Vedio
+
+Business Model Innovation  
+Research through Design  
+Graphic Design  
+
+## Results
 
 OpenSea: [Citations Collection NFTs](https://opensea.io/citations)
 

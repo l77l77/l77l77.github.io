@@ -1,5 +1,5 @@
 ---
-title: "Post: Mobile Design"
+title: "Mobile Design"
 categories:
   - Blog
 tags:

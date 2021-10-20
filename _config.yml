@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Birgir, Daniel & Sisi"
-  bio    : "Welcome to group5's Website! :)      Click Mobile design to see what we have done! ^^"
+  bio    : "Welcome to group5's Website! :)"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

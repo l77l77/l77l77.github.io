@@ -1,8 +1,6 @@
 ---
-title: "Mobile Design"
 categories:
   - Blog
-
 ---
 ## Boomerang
 

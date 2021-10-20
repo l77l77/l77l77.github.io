@@ -1,5 +1,10 @@
 ---
 title: "Post: Mobile Design"
+categories:
+  - Blog
+tags:
+  - Post Formats
+  - quote
 ---
 # Citations Collection
 

@@ -8,7 +8,7 @@ tags:
 ---
 ## Boomerang
 
-*NFT Collection Honoring Important Publications in Computer Science*
+*A journaling application for the modern era. It is designed to meet the needs of normal people. Normal people that life in the fast paced world of today.*
 
 ![cs](https://user-images.githubusercontent.com/1661078/136353977-dbc44c8c-678a-4a55-9fcb-4e8a6e8f0ae7.png)
 

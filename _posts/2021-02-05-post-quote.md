@@ -6,7 +6,7 @@ tags:
   - Post Formats
   - quote
 ---
-# Citations Collection
+## Boomerang
 
 *NFT Collection Honoring Important Publications in Computer Science*
 

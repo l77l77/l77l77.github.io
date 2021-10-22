@@ -32,9 +32,9 @@ So what Boomerang offers is a chance to utilize the time spent on the mobile in 
 
 ## Design Process
 
-![image](https://drive.google.com/uc?export=view&id=1YEnINsJoBzpTzB6mUUZrjiWS4V1X_eL_)
-
 The double diamond above illustrates the design process we have followed in designing The Boomerang. The methods used are spread across the diamonds and within the process, we focused on the DISCOVER, DEFINE and DEVELOP phases, while the DELIVER part was mostly done in the end in form of final delivery and evaluation.
+
+![image](https://drive.google.com/uc?export=view&id=1YEnINsJoBzpTzB6mUUZrjiWS4V1X_eL_)
 
 > DISCOVER consisted of us talking to potential users via unstructured formative interviews, researching websites, academic articles to learn more about wellbeing, diaries, analysis of emotions and moods through Artificial Intelligence,  technical limitations etc. Additionally, we analyzed how social media platforms, such as Slack, Messenger, WhatsApp, and WeChat have designed their messaging interface. Since we had the goal from early on to design a simple app we also took inspiration from Swish. 
 

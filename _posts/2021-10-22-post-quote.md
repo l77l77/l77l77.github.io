@@ -57,7 +57,7 @@ Above is our brand identity as it was used in the directions of our second itera
 
  ![1](/assets/images/second_direction_first_iteration.svg)
 
-![1](/assets/images/first_iteration_third_direction.svg.svg)
+ ![1](/assets/images/first_iteration_third_direction.svg.svg)
 
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=19FLb_RtLOMVAKkyfSV9OPxCGSulCL3di" />

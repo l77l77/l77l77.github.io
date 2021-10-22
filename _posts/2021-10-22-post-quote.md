@@ -116,8 +116,9 @@ Under settings the user can customise the application to their liking.
 
 
 ## Video
-<iframe src="https://drive.google.com/file/d/14t4jlv6AQJnTbzLmnsq-tBZa2izZtWtU/preview" width="640" height="380" allow="autoplay"></iframe>
-
+<p align="center">
+  <iframe src="https://drive.google.com/file/d/14t4jlv6AQJnTbzLmnsq-tBZa2izZtWtU/preview" width="640" height="380" allow="autoplay"></iframe>
+</p>
 
 ## Results
 

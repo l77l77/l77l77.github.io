@@ -67,7 +67,7 @@ Above is a wireflow of the first direction of our first iteration of Boomerang.
 Next is the second direction of our first iteration.
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1cosT7LfMvXnOEDzsu8kHcbqeptdG79bk" />
+  <img src="https://drive.google.com/uc?export=view&id=17_XMLpISqh65u4CY7287ZGlAGbcEPIQB" />
 </p>
 
 The third direction for our first iterarion.

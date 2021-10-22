@@ -79,9 +79,8 @@ The third direction for our first iterarion.
 The first direction of our second iteration of our design.
 
 <!-- <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1FROQCk9jdcXQRt1kP-6ckScwKywvGHQp" />
+  <img src="https://drive.google.com/uc?export=view&id=1Lsm5bdtNkap25Scy-PC5Scmb_qaYycv4" />
 </p> -->
-
 
 The second direction of our second iteration of our design.
 

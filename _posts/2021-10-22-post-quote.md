@@ -37,11 +37,11 @@ So what Boomerang offers is a chance to utilize the time spent on the mobile in 
 
 ![image](https://drive.google.com/uc?export=view&id=18AAm8C2g8TCjCUwofRnSy4-1Lsycvvvu)
 
-![image](https://user-images.githubusercontent.com/1661078/136367945-3d11c07a-470a-4507-80fd-149746edd628.png)
+![image](https://drive.google.com/uc?export=view&id=18AAm8C2g8TCjCUwofRnSy4-1Lsycvvvu)
 
-![image](https://user-images.githubusercontent.com/1661078/136367961-88cc3ae3-8655-4b20-ab28-c825e83f1a71.png)
+![image](https://drive.google.com/uc?export=view&id=18AAm8C2g8TCjCUwofRnSy4-1Lsycvvvu)
 
-![image](https://user-images.githubusercontent.com/1661078/136367973-556510d4-7c7e-49e6-af9f-6b404ab0eb8a.png)
+![image](https://drive.google.com/uc?export=view&id=18AAm8C2g8TCjCUwofRnSy4-1Lsycvvvu)
 
 
 ## Video

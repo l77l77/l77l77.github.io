@@ -47,7 +47,7 @@ The double diamond above illustrates the design process we have followed in desi
 > DEFINE included creating a common idea, creating a modified brief from the initial suggested briefs we choose from that clearly stated what we wanted to do, and defining values that we wanted to follow in our design. Later this was done by creating a brand identity that would define the kind of look and feel that our design directions would keep to.
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1onYGCJy-NW3jkNCp_OCgtSvtJswHYUhG" />
+  <img src="https://drive.google.com/uc?export=view&id=1NLUjvGgVL53iIQw7uDJzVFMDvLISURRl" />
 </p>
 
 > In DEVELOP we used Figma, to collect most ideas, as well as the actual wireframes, wire flows, and prototypes.

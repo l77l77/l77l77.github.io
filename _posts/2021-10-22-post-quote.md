@@ -32,6 +32,17 @@ Mobile phones are powerful tools that provide a lot of value to their users. The
 One way to increase one’s own cognitive abilities is to journal. It is an ancient activity where people reflect on their actions, feelings, and thoughts by writing them down. By doing so, people can better understand their feelings, thoughts and how they connect to their actions. 
 So what Boomerang offers is a chance to utilize the time spent on the mobile in a better way, rather than decreasing the time spent on the phone. It is a way to reflect on yourself during idle moments rather then browsing social media and reflecint on others people’s life. 
 
+## Design Process
+The double diamond above illustrates the design process we have followed in designing The Boomerang. The methods used are spread across the diamonds and within the process, we focused on the DISCOVER, DEFINE and DEVELOP phases, while the DELIVER part was mostly done in the end in form of final delivery and evaluation.
+
+> DISCOVER consisted of us talking to potential users via unstructured formative interviews, researching websites, academic articles to learn more about wellbeing, diaries, analysis of emotions and moods through Artificial Intelligence,  technical limitations etc. Additionally, we analyzed how social media platforms, such as Slack, Messenger, WhatsApp, and WeChat have designed their messaging interface. Since we had the goal from early on to design a simple app we also took inspiration from Swish. 
+
+> DEFINE included creating a common idea, creating a modified brief from the initial suggested briefs we choose from that clearly stated what we wanted to do, and defining values that we wanted to follow in our design. Later this was done by creating a brand identity that would define the kind of look and feel that our design directions would keep to.
+
+> In DEVELOP we used Figma, to collect most ideas, as well as the actual wireframes, wire flows, and prototypes.
+
+> DELIVER can be summarized as the creation of an interactive prototype, a website to present our design, and a video showing the what, how and why. It ended with an evaluation of our final design where two users where shown the final prototype and asked questions.
+
 
 ## Design
 

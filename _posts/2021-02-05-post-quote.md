@@ -57,18 +57,18 @@ To evaluate the design, we conducted interviews with two potential users. Both u
 
 Through the interviews we learned that:
 
-·   	To write a journal input in the Boomerang is simple and easy.
+* To write a journal input in the Boomerang is simple and easy.
 
-·   	Journaling throughout their day was something they could both see themselves doing. “A perfect moment to use an app like that is when you have 5 minutes while waiting for someone or while transporting.”
+* Journaling throughout their day was something they could both see themselves doing. “A perfect moment to use an app like that is when you have 5 minutes while waiting for someone or while transporting.”
 
-·   	They ad value to the user, with the fact that they receive insights. “Insights could be helpful to help me to understand how I feel, structure me and support me in my reflection. Sometimes you are unsure of how you feel when you write.”
+* They ad value to the user, with the fact that they receive insights. “Insights could be helpful to help me to understand how I feel, structure me and support me in my reflection. Sometimes you are unsure of how you feel when you write.”
 
-·   	It is very important to be able to provide feedback on the insights but the current way of thumbs down or thumbs up are confusing. The most important thing is to be able to inform the application when an insight is not correct and one suggested that the insights should be editable.  
+* It is very important to be able to provide feedback on the insights but the current way of thumbs down or thumbs up are confusing. The most important thing is to be able to inform the application when an insight is not correct and one suggested that the insights should be editable.  
 
-·   	For them the usefulness of journaling is to understand their current state of mind but also to revisit later. The current version of the app is thought to be good for the former but not the latter. To improve that the history section of the app could be structured better by also providing the option to filter by topics or emotions.
+* For them the usefulness of journaling is to understand their current state of mind but also to revisit later. The current version of the app is thought to be good for the former but not the latter. To improve that the history section of the app could be structured better by also providing the option to filter by topics or emotions.
 
-·   	Both wanted the option to upload photos in order to revisit old memories, which is currently not available in the application. “I want to go back to the difficult and good times, revisit them and see what I was thinking at that time. Pictures really add to ability to being able to revisit memories because sometimes words don’t make any justice.”
-·   	Data protection is important for diaries and the fact that the Boomerang does not share diary inputs with any third parties was very important.
+* Both wanted the option to upload photos in order to revisit old memories, which is currently not available in the application. “I want to go back to the difficult and good times, revisit them and see what I was thinking at that time. Pictures really add to ability to being able to revisit memories because sometimes words don’t make any justice.”
+* Data protection is important for diaries and the fact that the Boomerang does not share diary inputs with any third parties was very important.
  
 Based on those evaluations we seem to be on the right track towards creating an application that can support people journaling throughout the day in a simple and easy way. It is a journal application that supports people in the moment but might need more support and structure to offer more flexibility towards revisiting old memories. 
 

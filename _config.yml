@@ -61,7 +61,7 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://l77l77.github.io"
-      logo: "/assets/images/bio-photo.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+      logo: /assets/images/bio-photo.jpg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 
 
 footer:

@@ -50,6 +50,8 @@ The double diamond above illustrates the design process we have followed in desi
   <img src="https://drive.google.com/uc?export=view&id=1NLUjvGgVL53iIQw7uDJzVFMDvLISURRl" />
 </p>
 
+Above is our brand identity as it was used in the directions of our second iteration. We choose clear colors, that would bring a sense of calmness and simplicity to our overall design. We decided to decrease the lightness of some of these colors for our final iteration, to find the appropriate balance and in a better make important content stand out.
+
 > In DEVELOP we used Figma, to collect most ideas, as well as the actual wireframes, wire flows, and prototypes.
 
 <p align="center">

@@ -35,7 +35,8 @@ So what Boomerang offers is a chance to utilize the time spent on the mobile in 
 
 ## Design
 
-![image](https://drive.google.com/uc?export=view&id=1ID12PQehQVZsT0_qDCUYhy_u3yDbj2GR)
+![image](https://drive.google.com/uc?export=view&id=1jGRtbYnWMsavfPtDex8g3a-P1IDyBb8l)
+
 
 ![image](https://drive.google.com/uc?export=view&id=18AAm8C2g8TCjCUwofRnSy4-1Lsycvvvu)
 

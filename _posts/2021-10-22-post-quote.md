@@ -49,9 +49,16 @@ The double diamond above illustrates the design process we have followed in desi
 > In DEVELOP we used Figma, to collect most ideas, as well as the actual wireframes, wire flows, and prototypes.
 
 <p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1MUdBbKeY6IAxkdT4LgI1muoZ0JAlPh0G" />
+</p>
+
+The first direction of our second iteration of our design.
+
+<p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1mro52_J5Eh9IQmoAmePduSG3jxMaRiry" />
 </p>
 
+The second direction of our second iteration of our design.
 
 > DELIVER can be summarized as the creation of an interactive prototype, a website to present our design, and a video showing the what, how and why. It ended with an evaluation of our final design where two users where shown the final prototype and asked questions.
 

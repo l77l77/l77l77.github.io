@@ -82,6 +82,7 @@ The first direction of our second iteration of our design.
   <img src="https://drive.google.com/uc?export=view&id=1FROQCk9jdcXQRt1kP-6ckScwKywvGHQp" />
 </p>
 
+
 The second direction of our second iteration of our design.
 
 > DELIVER can be summarized as the creation of an interactive prototype, a website to present our design, and a video showing the what, how and why. It ended with an evaluation of our final design where two users where shown the final prototype and asked questions.

@@ -51,13 +51,14 @@ The double diamond above illustrates the design process we have followed in desi
   <img src="https://drive.google.com/uc?export=view&id=1_020tkHVA9ydkAWW6QLlpaZazPHisn-8" />
 </p>
 
+
 > DISCOVER consisted of us talking to potential users via unstructured formative interviews, researching websites, academic articles to learn more about wellbeing, diaries, analysis of emotions and moods through Artificial Intelligence,  technical limitations etc. Additionally, we analyzed how social media platforms, such as Slack, Messenger, WhatsApp, and WeChat have designed their messaging interface. Since we had the goal from early on to design a simple app we also took inspiration from Swish. 
 
 > DEFINE included creating a common idea, creating a modified brief from the initial suggested briefs we choose from that clearly stated what we wanted to do, and defining values that we wanted to follow in our design. Later this was done by creating a brand identity that would define the kind of look and feel that our design directions would keep to.
 
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1NLUjvGgVL53iIQw7uDJzVFMDvLISURRl" />
-</p>
+   ![1](/assets/images/41485.png)
+
+
 
 Above is our brand identity as it was used in the directions of our second iteration. We choose clear colors, that would bring a sense of calmness and simplicity to our overall design. We decided to decrease the lightness of some of these colors for our final iteration, to find the appropriate balance and in a better make important content stand out.
 

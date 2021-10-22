@@ -37,7 +37,12 @@ So what Boomerang offers is a chance to utilize the time spent on the mobile in 
 
 ![image](https://drive.google.com/uc?export=view&id=10LPsyamnquQLXGxCu5IkQTLBpmpkx4So)
 
+These screens show the process of registering an account for using The Boomerang application and it's services. First the user is prompted to enter their username or password, or if they don't have any, they can register and sign up for a new account.
+
 ![image](https://drive.google.com/uc?export=view&id=1EXFVPwcYwgXLaKQ7FWIOojPcjtMZzvvQ)
+
+The screens above show how messages are collected through a day of using the app. The user can input new messages in the bottom of the screen. Messages are then shown as a feed with older messages in the top and newer ones. If there are new insights they will be shown at the start of the feed of a new day.
+
 
 ![image](https://drive.google.com/uc?export=view&id=1ZxrzpYRvDdxLAiePKRVHeg3qvcW78ned)
 

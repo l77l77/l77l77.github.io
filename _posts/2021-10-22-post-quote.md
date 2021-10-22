@@ -5,7 +5,10 @@ categories:
 ---
 ## Boomerang
 
-![cs](https://drive.google.com/uc?export=view&id=1EUf2DIymOOvZxoE-pa3Xo1zhQQnVkR64)
+<!-- ![cs](https://drive.google.com/uc?export=view&id=1EUf2DIymOOvZxoE-pa3Xo1zhQQnVkR64) -->
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1EUf2DIymOOvZxoE-pa3Xo1zhQQnVkR64" />
+</p>
 
 *A journaling application for the modern era. It is designed to meet the needs of normal people. Normal people that life in the fast paced world of today.*
 

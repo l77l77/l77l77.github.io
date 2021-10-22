@@ -61,7 +61,7 @@ Above is our brand identity as it was used in the directions of our second itera
 Above is a wireflow of the first direction of our first iteration of Boomerang.
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1W89Y9E6pGM7k6XYJnKXHajuHD0uIhtsP" />
+  <img src="https://drive.google.com/uc?export=view&id=1Kn9Wyzhzyrp_8UqzuoAogzHVvcGfqpSA" />
 </p>
 
 Next is the second direction of our first iteration.

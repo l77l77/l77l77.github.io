@@ -57,8 +57,6 @@ plugins:
 author:
   name   : "Birgir, Daniel & Sisi"
   avatar : "/assets/images/Bir.png"
-           "/assets/images/CC.png"
-           "/assets/images/Da.png"
   bio    : "Welcome to group5's Website! :)"
   links:
     - label: "Website"

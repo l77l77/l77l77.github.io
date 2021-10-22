@@ -93,28 +93,27 @@ The second direction of our second iteration of our design.
 
 ## Design
 
-![image](https://drive.google.com/uc?export=view&id=10LPsyamnquQLXGxCu5IkQTLBpmpkx4So)
-
+![1](/assets/images/login.svg)
 These screens show the process of registering an account for using The Boomerang application and it's services. First the user is prompted to enter their username or password, or if they don't have any, they can register and sign up for a new account.
 
-![image](https://drive.google.com/uc?export=view&id=1EXFVPwcYwgXLaKQ7FWIOojPcjtMZzvvQ)
+![image](/assets/images/Start.svg)
 
 The screens above show how messages are collected through a day of using the app. The user can input new messages in the bottom of the screen. Messages are then shown as a feed with older messages in the top and newer ones in the bottom. If there are new insights they will be shown at the start of the feed of a new day.
 
 
-![image](https://drive.google.com/uc?export=view&id=1ZxrzpYRvDdxLAiePKRVHeg3qvcW78ned)
+![image](/assets/images/insight.svg)
 
 Insights are also collected under the insights-tab. Here all relevant insights are stored to be viewed by the user, as well as up- or downvoted to give the user an opportunity to inform the algorithm. There is also a line chart showing the user how their mood has changed over time. Here the algorithm tries to find positive and negative patterns in the journal entries, and then over time updates the line to show the proportion of positive and negative posts.
 
-![image](https://drive.google.com/uc?export=view&id=16pCyeGPfpdz_jnxpORzH6BUDpqJ8Ta40)
+![image](/assets/images/history1.svg)
 
 History shows all entries in the journal, sorted by date, 
 
-![image](https://drive.google.com/uc?export=view&id=1zUyFm96AtTIR4eo2qFy6f9CKw_tRLPc0)
+![image](/assets/images/history2.svg)
 
 There is also a search bar to search for dates or specific words and sentances used while journaling.
 
-![image](https://drive.google.com/uc?export=view&id=1BPFuAfRcevD3-ggs2Jl7nVp4HKI2EXJs)
+![image](/assets/images/Setting.svg)
 
 Under settings the user can customise the application to their liking.
 

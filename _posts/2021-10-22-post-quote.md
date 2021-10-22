@@ -55,17 +55,9 @@ Above is our brand identity as it was used in the directions of our second itera
 > In DEVELOP we used Figma, to collect most ideas, as well as the actual wireframes, wire flows, and prototypes.
 
 
-
-
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=19FLb_RtLOMVAKkyfSV9OPxCGSulCL3di" />
-</p>
+ ![1](/assets/images/first_direction_first_iteration.png)
 
 Above is a wireflow of the first direction of our first iteration of Boomerang.
-
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1Kn9Wyzhzyrp_8UqzuoAogzHVvcGfqpSA" />
-</p>
 
 Next is the second direction of our first iteration.
 
@@ -73,7 +65,7 @@ Next is the second direction of our first iteration.
 
 The third direction for our first iterarion.
 
- ![1](/assets/images/first_iteration_third_direction.svg.svg)
+ ![1](/assets/images/first_iteration_third_direction.svg)
 
 The first direction of our second iteration of our design.
 
@@ -82,6 +74,8 @@ The first direction of our second iteration of our design.
 </p>
 
 The second direction of our second iteration of our design.
+
+
 
 > DELIVER can be summarized as the creation of an interactive prototype, a website to present our design, and a video showing the what, how and why. It ended with an evaluation of our final design where two users where shown the final prototype and asked questions.
 

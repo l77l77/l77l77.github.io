@@ -55,9 +55,7 @@ Above is our brand identity as it was used in the directions of our second itera
 > In DEVELOP we used Figma, to collect most ideas, as well as the actual wireframes, wire flows, and prototypes.
 
 
- ![1](/assets/images/second_direction_first_iteration.svg)
 
- ![1](/assets/images/first_iteration_third_direction.svg.svg)
 
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=19FLb_RtLOMVAKkyfSV9OPxCGSulCL3di" />
@@ -71,15 +69,11 @@ Above is a wireflow of the first direction of our first iteration of Boomerang.
 
 Next is the second direction of our first iteration.
 
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=17_XMLpISqh65u4CY7287ZGlAGbcEPIQB" />
-</p>
+ ![1](/assets/images/second_direction_first_iteration.svg)
 
 The third direction for our first iterarion.
 
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1MUdBbKeY6IAxkdT4LgI1muoZ0JAlPh0G" />
-</p>
+ ![1](/assets/images/first_iteration_third_direction.svg.svg)
 
 The first direction of our second iteration of our design.
 

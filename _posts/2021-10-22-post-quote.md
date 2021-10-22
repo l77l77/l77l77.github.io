@@ -52,13 +52,19 @@ The double diamond above illustrates the design process we have followed in desi
   <img src="https://drive.google.com/uc?export=view&id=10aU-_s3sTItOsNaFa1MLLXV7yf_rWlDq" />
 </p>
 
+Above is a wireflow of the first direction of our first iteration of Boomerang.
+
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1W89Y9E6pGM7k6XYJnKXHajuHD0uIhtsP" />
 </p>
 
+Next is the second direction of our first iteration.
+
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=15uX8LMp2qdr58XQ7Ay72QVYHQtBwkOUc" />
 </p>
+
+The third direction for our first iterarion.
 
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1MUdBbKeY6IAxkdT4LgI1muoZ0JAlPh0G" />

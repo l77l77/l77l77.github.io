@@ -46,11 +46,11 @@ The screens above show how messages are collected through a day of using the app
 
 ![image](https://drive.google.com/uc?export=view&id=1ZxrzpYRvDdxLAiePKRVHeg3qvcW78ned)
 
-Insights are also collected under the insights-tab. Here all relevant insights are stored to be viewed by the user, as well as up- or downvoted to give the user an opportunity to inform the algorithm.
+Insights are also collected under the insights-tab. Here all relevant insights are stored to be viewed by the user, as well as up- or downvoted to give the user an opportunity to inform the algorithm. There is also a line chart showing the user how their mood has changed over time. Here the algorithm tries to find positive and negative patterns in the journal entries, and then over time updates the line to show the proportion of positive and negative posts.
 
 ![image](https://drive.google.com/uc?export=view&id=16pCyeGPfpdz_jnxpORzH6BUDpqJ8Ta40)
 
-There is also a line chart showing the user how their mood has changed over time. Here the algorithm tries to find positive and negative patterns in the journal entries, and then over time updates the line to show the proportion of positive and negative posts.
+History shows all entries in the journal, sorted by date, 
 
 ![image](https://drive.google.com/uc?export=view&id=1zUyFm96AtTIR4eo2qFy6f9CKw_tRLPc0)
 

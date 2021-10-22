@@ -54,6 +54,8 @@ History shows all entries in the journal, sorted by date,
 
 ![image](https://drive.google.com/uc?export=view&id=1zUyFm96AtTIR4eo2qFy6f9CKw_tRLPc0)
 
+Under settings the user can customise the application to their liking.
+
 ![image](https://drive.google.com/uc?export=view&id=1BPFuAfRcevD3-ggs2Jl7nVp4HKI2EXJs)
 
 

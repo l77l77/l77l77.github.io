@@ -33,6 +33,9 @@ One way to increase one’s own cognitive abilities is to journal. It is an anci
 So what Boomerang offers is a chance to utilize the time spent on the mobile in a better way, rather than decreasing the time spent on the phone. It is a way to reflect on yourself during idle moments rather then browsing social media and reflecint on others people’s life. 
 
 
+## Design Process
+
+
 ## Design
 
 ![image](https://user-images.githubusercontent.com/1661078/136367937-8e171d8c-bf32-4282-8473-0d80e19b4407.png)

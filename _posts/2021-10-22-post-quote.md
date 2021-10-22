@@ -82,27 +82,27 @@ The second direction of our second iteration of our design.
 
 ## Design
 
-![1](/assets/images/login.svg)
+![1](/assets/images/login1.png)
 These screens show the process of registering an account for using The Boomerang application and it's services. First the user is prompted to enter their username or password, or if they don't have any, they can register and sign up for a new account.
 
-![image](/assets/images/Start.svg)
+![image](/assets/images/Start1.png)
 
 The screens above show how messages are collected through a day of using the app. The user can input new messages in the bottom of the screen. Messages are then shown as a feed with older messages in the top and newer ones in the bottom. If there are new insights they will be shown at the start of the feed of a new day.
 
 
-![image](/assets/images/insight.svg)
+![image](/assets/images/insights1.png)
 
 Insights are also collected under the insights-tab. Here all relevant insights are stored to be viewed by the user, as well as up- or downvoted to give the user an opportunity to inform the algorithm. There is also a line chart showing the user how their mood has changed over time. Here the algorithm tries to find positive and negative patterns in the journal entries, and then over time updates the line to show the proportion of positive and negative posts.
 
-![image](/assets/images/history1.svg)
+![image](/assets/images/history1.png)
 
 History shows all entries in the journal, sorted by date, 
 
-![image](/assets/images/history2.svg)
+![image](/assets/images/history12.png)
 
 There is also a search bar to search for dates or specific words and sentances used while journaling.
 
-![image](/assets/images/Setting.svg)
+![image](/assets/images/setting1.png)
 
 Under settings the user can customise the application to their liking.
 

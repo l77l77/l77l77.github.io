@@ -49,7 +49,7 @@ The double diamond above illustrates the design process we have followed in desi
 > In DEVELOP we used Figma, to collect most ideas, as well as the actual wireframes, wire flows, and prototypes.
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1MUdBbKeY6IAxkdT4LgI1muoZ0JAlPh0G" />
+  <img src="https://drive.google.com/uc?export=view&id=10aU-_s3sTItOsNaFa1MLLXV7yf_rWlDq" />
 </p>
 
 The first direction of our second iteration of our design.

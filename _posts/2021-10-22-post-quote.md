@@ -57,6 +57,10 @@ The double diamond above illustrates the design process we have followed in desi
 </p>
 
 <p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=15uX8LMp2qdr58XQ7Ay72QVYHQtBwkOUc" />
+</p>
+
+<p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1MUdBbKeY6IAxkdT4LgI1muoZ0JAlPh0G" />
 </p>
 

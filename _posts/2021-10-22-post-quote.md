@@ -52,6 +52,11 @@ The double diamond above illustrates the design process we have followed in desi
   <img src="https://drive.google.com/uc?export=view&id=10aU-_s3sTItOsNaFa1MLLXV7yf_rWlDq" />
 </p>
 
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1MUdBbKeY6IAxkdT4LgI1muoZ0JAlPh0G" />
+</p>
+
 The first direction of our second iteration of our design.
 
 <p align="center">

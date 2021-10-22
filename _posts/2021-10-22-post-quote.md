@@ -43,6 +43,8 @@ So what Boomerang offers is a chance to utilize the time spent on the mobile in 
 
 ![image](https://drive.google.com/uc?export=view&id=1zUyFm96AtTIR4eo2qFy6f9CKw_tRLPc0)
 
+![image](https://drive.google.com/uc?export=view&id=1BPFuAfRcevD3-ggs2Jl7nVp4HKI2EXJs)
+
 
 ## Video
 <iframe src="https://drive.google.com/file/d/14t4jlv6AQJnTbzLmnsq-tBZa2izZtWtU/preview" width="640" height="380" allow="autoplay"></iframe>

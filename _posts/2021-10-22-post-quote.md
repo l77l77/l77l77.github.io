@@ -39,7 +39,7 @@ The double diamond above illustrates the design process we have followed in desi
 
 <!-- ![image](https://drive.google.com/uc?export=view&id=1YEnINsJoBzpTzB6mUUZrjiWS4V1X_eL_) -->
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1YEnINsJoBzpTzB6mUUZrjiWS4V1X_eL_" />
+  <img src="https://drive.google.com/uc?export=view&id=1_020tkHVA9ydkAWW6QLlpaZazPHisn-8" />
 </p>
 
 > DISCOVER consisted of us talking to potential users via unstructured formative interviews, researching websites, academic articles to learn more about wellbeing, diaries, analysis of emotions and moods through Artificial Intelligence,  technical limitations etc. Additionally, we analyzed how social media platforms, such as Slack, Messenger, WhatsApp, and WeChat have designed their messaging interface. Since we had the goal from early on to design a simple app we also took inspiration from Swish. 

@@ -44,9 +44,7 @@ So what Boomerang offers is a chance to utilize the time spent on the mobile in 
 ![image](https://user-images.githubusercontent.com/1661078/136367973-556510d4-7c7e-49e6-af9f-6b404ab0eb8a.png)
 
 
-## Video
-
-  <iframe src="https://drive.google.com/file/d/14t4jlv6AQJnTbzLmnsq-tBZa2izZtWtU/preview" width="640" height="480" allow="autoplay"></iframe>
+## Vedio
 
 
 ## Results
@@ -54,11 +52,17 @@ So what Boomerang offers is a chance to utilize the time spent on the mobile in 
 To evaluate the design, we conducted interviews with two potential users. Both users are 28 years of age, one female and one male, are currently not journaling but would like to. During both interviews the interviewer explained the app’s purpose, showed the current prototype, and asked about the main functions.
 
 Through the interviews we learned that:
+
 ·   	To write a journal input in the Boomerang is simple and easy.
+
 ·   	Journaling throughout their day was something they could both see themselves doing. “A perfect moment to use an app like that is when you have 5 minutes while waiting for someone or while transporting.”
+
 ·   	They ad value to the user, with the fact that they receive insights. “Insights could be helpful to help me to understand how I feel, structure me and support me in my reflection. Sometimes you are unsure of how you feel when you write.”
+
 ·   	It is very important to be able to provide feedback on the insights but the current way of thumbs down or thumbs up are confusing. The most important thing is to be able to inform the application when an insight is not correct and one suggested that the insights should be editable.  
+
 ·   	For them the usefulness of journaling is to understand their current state of mind but also to revisit later. The current version of the app is thought to be good for the former but not the latter. To improve that the history section of the app could be structured better by also providing the option to filter by topics or emotions.
+
 ·   	Both wanted the option to upload photos in order to revisit old memories, which is currently not available in the application. “I want to go back to the difficult and good times, revisit them and see what I was thinking at that time. Pictures really add to ability to being able to revisit memories because sometimes words don’t make any justice.”
 ·   	Data protection is important for diaries and the fact that the Boomerang does not share diary inputs with any third parties was very important.
  

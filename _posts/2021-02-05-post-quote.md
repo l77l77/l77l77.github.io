@@ -50,6 +50,7 @@ So what Boomerang offers is a chance to utilize the time spent on the mobile in 
 ## Results
 
 To evaluate the design, we conducted interviews with two potential users. Both users are 28 years of age, one female and one male, are currently not journaling but would like to. During both interviews the interviewer explained the app’s purpose, showed the current prototype, and asked about the main functions.
+
 Through the interviews we learned that:
 ·   	To write a journal input in the Boomerang is simple and easy.
 ·   	Journaling throughout their day was something they could both see themselves doing. “A perfect moment to use an app like that is when you have 5 minutes while waiting for someone or while transporting.”
@@ -59,7 +60,9 @@ Through the interviews we learned that:
 ·   	Both wanted the option to upload photos in order to revisit old memories, which is currently not available in the application. “I want to go back to the difficult and good times, revisit them and see what I was thinking at that time. Pictures really add to ability to being able to revisit memories because sometimes words don’t make any justice.”
 ·   	Data protection is important for diaries and the fact that the Boomerang does not share diary inputs with any third parties was very important.
  
-Based on those evaluations we seem to be on the right track towards creating an application that can support people journaling throughout the day in a simple and easy way. It is a journal application that supports people in the moment but might need more support and structure to offer more flexibility towards revisiting old memories. The reason for why the app currently does not allow photo input is because the text recognition technology would not be able to understand the input. Thus, the next step should be to explore further whether that matters or not for users and whether if photo input would be detrimental to the simplicity of the app.   
+Based on those evaluations we seem to be on the right track towards creating an application that can support people journaling throughout the day in a simple and easy way. It is a journal application that supports people in the moment but might need more support and structure to offer more flexibility towards revisiting old memories. 
+
+The reason for why the app currently does not allow photo input is because the text recognition technology would not be able to understand the input. Thus, the next step should be to explore further whether that matters or not for users and whether if photo input would be detrimental to the simplicity of the app.   
 
 
 OpenSea: [Citations Collection NFTs](https://opensea.io/citations)

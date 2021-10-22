@@ -55,7 +55,7 @@ Above is our brand identity as it was used in the directions of our second itera
 > In DEVELOP we used Figma, to collect most ideas, as well as the actual wireframes, wire flows, and prototypes.
 
 
- ![1](/assets/images/first_direction_first_iterarion.svg)
+ ![1](/assets/images/second_direction_first_iteration.svg)
 
 
 <p align="center">

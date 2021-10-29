@@ -17,6 +17,8 @@ categories:
 
 ## Background
 
+![image](/assets/images/Background visual.png)
+
 #### What:
 The Boomerang is a journal application that supports the modern lifestyle and utilizes machine learning to provide users with actionable and informative feedback.
 
@@ -125,6 +127,8 @@ Under settings the user can customise the application to their liking.
 ## Results
 
 To evaluate the design, we conducted interviews with two potential users. Both users are 28 years of age, one female and one male, are currently not journaling but would like to. During both interviews the interviewer explained the app’s purpose, showed the current prototype, and asked about the main functions.
+
+![image](/assets/images/Result visual.png)
 
 Through the interviews we learned that:
 
